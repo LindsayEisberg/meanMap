@@ -1,0 +1,24 @@
+{
+  "name": "mapapp",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Lindsay Eisberg <lindsay.eisberg@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "angularjs-geolocation": "~0.1.1",
+    "modernizr": "~3.2.0"
+  }
+}
